@@ -7,7 +7,7 @@ Scripts are named following the figure numbering in the paper.
 
 ## Post-processing
 
-These scripts are needed to postprocess the original model output. The scripts create netcdf files or text files which are read in by the plotting scripts. 
+These scripts are needed to postprocess the original E3SM model output. The scripts create netcdf files or text files which are read in by the plotting scripts. 
 
 Original and postprocessed model output can be found on Globus (see data availability statement in paper for details). 
 
